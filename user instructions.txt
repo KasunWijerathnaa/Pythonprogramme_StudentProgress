@@ -1,0 +1,13 @@
+1. open the main_menu.py
+
+2. then you can see menu like below
+    1-> Student Version
+    2-> Student Version(Validation)
+    3-> Staff Version with Histogram
+    4-> Staff Version Vertical Histogram
+    5-> Alternative Staff Version (optional extension)!!!You can use only one time..if u want run this again..exit and restart program..")
+    6-> Exit
+
+3. using that menu u can easily access to every part of this program
+
+ThankYou!
